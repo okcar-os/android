@@ -9,7 +9,8 @@
            fetch="ssh://git@github.com" />
 
   <remote  name="okcar-os"
-           fetch="https://github.com" />
+           fetch="https://github.com"
+           revision="refs/heads/okcar-1.0" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
