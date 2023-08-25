@@ -9,7 +9,7 @@
            fetch="ssh://git@github.com" />
 
   <remote  name="okcar-os"
-           fetch="https://github.com"
+           fetch="ssh://git@github.com"
            revision="refs/heads/okcar-1.0" />
 
   <remote  name="aosp"
@@ -843,6 +843,7 @@
   <project path="kernel/tests" name="kernel/tests" groups="vts,pdk" remote="aosp" />
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
+  <project path="okcar" name="okcar-os/okcar" remote="okcar-os" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="packages/apps/Browser2" name="platform/packages/apps/Browser2" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" />
