@@ -8,8 +8,12 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <remote  name="okcar-os"
+  <remote  name="okcar-os-private"
            fetch="ssh://git@github.com"
+           revision="refs/heads/okcar-1.0" />
+
+  <remote  name="okcar-os"
+           fetch="https://github.com"
            revision="refs/heads/okcar-1.0" />
 
   <remote  name="aosp"
