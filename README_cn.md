@@ -12,8 +12,8 @@ OkcarOS
 ---------------
 如果你的车机支持CarPlay，准备一部支持的Android手机，下载OkcarOS ROM包刷入，插车上即可直接使用。
 1. [官网](https://www.okcaros.com)
-2. [支持的手机设备列表](https://wiki.okcaros.com/devices)
-3. [ROM刷机包下载](https://downaload.okcaros.com)
+2. [支持的手机设备列表](https://wiki.okcaros.com/devices/)
+3. [ROM刷机包下载](https://download.okcaros.com)
 
 实拍
 ---------------
