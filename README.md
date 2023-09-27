@@ -19,7 +19,7 @@ OkcarOS
 If your in-car entertainment supports CarPlay, all you need is a compatible Android smartphone. Download the OkcarOS ROM package, flash it onto the phone, and connect it to your car:
 
 1. [Official Website](https://www.okcaros.com)
-2. [List of Supported Devices](https://wiki.okcaros.com/devices)
+2. [List of Supported Devices](https://wiki.okcaros.com/devices/)
 3. [ROM Package Download](https://download.okcaros.com)
 
 ### Real-life Demonstrations
