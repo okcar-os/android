@@ -23,10 +23,14 @@ If your in-car entertainment supports CarPlay, all you need is a compatible Andr
 3. [ROM Package Download](https://download.okcaros.com)
 
 ### Real-life Demonstrations
-
-![Gesture Control GIF](imgs/gesture.gif)
-
+#### Honda Civic
 ![Smooth Screen Sharing GIF](imgs/demo.gif)
+
+#### Porsche Panamera 2023
+<img src="imgs/porsche_panamera_split_screen.jpg" style="width:500px" />
+
+#### Audio A6L
+![Gesture Control GIF](imgs/gesture.gif)
 
 ### Building the System Yourself
 
